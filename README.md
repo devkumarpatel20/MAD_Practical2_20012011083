@@ -24,3 +24,8 @@ Create Activity to display “Hello World” in TextView in the center of Activi
 
 ![image](https://user-images.githubusercontent.com/110648378/187058360-8f69e6cc-2e22-4bee-87c8-d53c63d09f31.png)
 
+
+![image](https://user-images.githubusercontent.com/110648378/187081243-7cade518-5ce5-44ab-a8e9-060f0547a201.png)
+![image](https://user-images.githubusercontent.com/110648378/187081234-a0a2a64d-3418-4fb8-929a-53a000b329ca.png)
+![image](https://user-images.githubusercontent.com/110648378/187081249-7af08c8b-f299-4795-9451-d43a8caf916a.png)
+
