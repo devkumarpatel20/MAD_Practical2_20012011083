@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-//        showMessage("onCreate function called.")
+        showMessage("onCreate function called.")
     }
 
     fun showMessage(msg:String){
