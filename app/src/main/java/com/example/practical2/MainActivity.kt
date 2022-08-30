@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         showMessage("onCreate function called.")
     }
 
-    fun showMessage(msg:String){
+    private fun showMessage(msg:String){
         Log.i(TAG,msg)
         Toast.makeText(this,msg,Toast.LENGTH_SHORT).show()
         Snackbar.make(findViewById(R.id.snackbarId),msg,Snackbar.LENGTH_SHORT).show()
